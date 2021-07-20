@@ -1,0 +1,17 @@
+.activities-item{
+   
+    font-size: 32px;
+    color: rgb(48, 67, 85);
+    text-decoration: none; 
+}
+  
+  .activities-item:visited{   
+    text-decoration: none; 
+  }   
+  .activities-item:active{   
+    text-decoration: none;   
+  }   
+  .activities-item:hover{  
+    color: rgb(78, 83, 88); 
+    text-decoration: none;  
+  }   
